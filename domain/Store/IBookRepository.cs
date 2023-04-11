@@ -10,7 +10,7 @@ namespace Store
     {
 
 
-        Book[] GetByTitle(string titlePart);
+        Book[] GetByAllTitle(string titlePart);
 
 
     }
